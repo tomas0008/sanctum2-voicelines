@@ -1,4 +1,3 @@
-"Character_Teleport_2_EAR.ogg"
 "Simo_Affermative_2_EAR.ogg"
 "Simo_Affermative_3_EAR.ogg"
 "Simo_BlowUpEnemy_1_EAR.ogg"

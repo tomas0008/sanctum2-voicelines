@@ -1,8 +1,3 @@
-"Character_Teleport_2_EAR.ogg"
-"Foley_Jump_1_MONO_EAR.ogg"
-"Foley_Land_2_MONO_EAR.ogg"
-"Skye_FoleyJump_2_EAR.ogg"
-"Skye_FoleyLand_1_EAR.ogg"
 "Tsygan_BlowUpEnemy_1_EAR.ogg"
 "Tsygan_BlowUpEnemy_2_EAR.ogg"
 "Tsygan_BlowUpEnemy_3_EAR.ogg"

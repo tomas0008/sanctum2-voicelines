@@ -1,4 +1,3 @@
-"Character_Teleport_2_EAR.ogg"
 "Skye_Affirmative_1_EAR.ogg"
 "Skye_BlowUpEnemy_1_EAR.ogg"
 "Skye_BlowUpEnemy_3_EAR.ogg"

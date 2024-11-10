@@ -1,4 +1,3 @@
-"Character_Teleport_2_EAR.ogg"
 "Sweet_Affirmative_1_EAR.ogg"
 "Sweet_Affirmative_2_EAR.ogg"
 "Sweet_Affirmative_3_EAR.ogg"
